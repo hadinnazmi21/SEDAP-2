@@ -35,7 +35,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <Card
             icon={<FaCubes />}
-            title="Pilihan Menu Variatif"
+            title="Pilihan Menu geng Variatif"
             description="Nikmati beragam pilihan menu makanan yang menggugah selera setiap hari, mulai dari masakan rumahan hingga hidangan modern kekinian."
           />
 
